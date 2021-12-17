@@ -6,6 +6,7 @@
 # bash
 ```bash
 ##############################################################################
+by https://github.com/skywind3000/awesome-cheatsheets
 # 常用快捷键（默认使用 Emacs 键位）
 ##############################################################################
 
@@ -1680,8 +1681,6 @@ https://github.com/glts/vim-cottidie/blob/master/autoload/cottidie/tips
 # VIM
 ```bash
 ##############################################################################
-# VIM CHEATSHEET (中文速查表)  -  by skywind (created on 2017/10/12)
-# Version: 47, Last Modified: 2020/10/10 11:02
 # https://github.com/skywind3000/awesome-cheatsheets
 ##############################################################################
 
